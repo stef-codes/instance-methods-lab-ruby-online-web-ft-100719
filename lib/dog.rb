@@ -6,14 +6,19 @@ class Dog
   def sit 
     puts "The Dog is sitting"
   end
-  #person
-  def person
-    puts "The Dog is sitting"
-  end
+end
+  #person class
+Class person
+    
+end
   #talk
   def talk
     puts "The Dog is sitting"
-  end  
+  end 
+  #walk
+  def walk
+    puts "The Dog is sitting"
+  end 
   
 end
 
