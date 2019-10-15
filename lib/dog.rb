@@ -8,7 +8,8 @@ class Dog
   end
 end
   #person class
-# Class person
+class Person
+
 #   #talk
 #   def talk
 #     puts "Hello World!"
