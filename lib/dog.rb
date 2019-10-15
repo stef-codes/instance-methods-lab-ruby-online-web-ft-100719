@@ -9,18 +9,18 @@ class Dog
 end
   #person class
 Class person
-    
-end
   #talk
   def talk
-    puts "The Dog is sitting"
-  end 
+    puts "Hello World!"
+  end     
+
   #walk
   def walk
-    puts "The Dog is sitting"
-  end 
-  
+    puts "The Person is walking"
+  end   
 end
+
+  
 
 
 
