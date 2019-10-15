@@ -6,8 +6,19 @@ class Dog
   def sit 
     puts "The Dog is sitting"
   end
-  def sit 
+  #person
+  def person
     puts "The Dog is sitting"
   end
+  #talk
+  def talk
+    puts "The Dog is sitting"
+  end  
+  
 end
+
+
+
+
+
 
