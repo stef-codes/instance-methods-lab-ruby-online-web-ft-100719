@@ -8,17 +8,17 @@ class Dog
   end
 end
   #person class
-Class person
-  #talk
-  def talk
-    puts "Hello World!"
-  end     
+# Class person
+#   #talk
+#   def talk
+#     puts "Hello World!"
+#   end     
 
-  #walk
-  def walk
-    puts "The Person is walking"
-  end   
-end
+#   #walk
+#   def walk
+#     puts "The Person is walking"
+#   end   
+# end
 
   
 
