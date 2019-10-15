@@ -9,10 +9,10 @@ class Dog
 end
   #person class
 class Person
-#   #talk
-#   def talk
-#     puts "Hello World!"
-#   end     
+#   talk
+   def talk
+     puts "Hello World!"
+   end     
 
 #   #walk
 #   def walk
